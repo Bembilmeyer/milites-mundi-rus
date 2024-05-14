@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Milites Mundi (RUS)" indexUrl="https://github.com/Bembilmeyer/milites-mundi-rus" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <dataIndexEntries>
-    <dataIndexEntry filePath="Milites Mundi (Russian).gstz" dataType="gamesystem" dataId="805b-91eb-d8fb-1b92" dataName="Milites Mundi (Russian)" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Греко-Бактрийское царство.catz" dataType="catalogue" dataId="81cd-f484-be58-358a" dataName="Греко-Бактрийское царство" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Галаты (280-25 до НЭ).catz" dataType="catalogue" dataId="2b2f-8912-c33e-6f8e" dataName="Галаты (280-25 до НЭ)" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Викинги.catz" dataType="catalogue" dataId="5c05-bf5c-21a3-45d8" dataName="Викинги" dataBattleScribeVersion="2.03" dataRevision="1"/>
-  </dataIndexEntries>
-</dataIndex>
